@@ -1,4 +1,4 @@
-discord.py>=0.16
-lxml>=3
-redis>=2
-requests>=2
+discord.py==1.1.1
+lxml==4.3.3
+redis==3.2.1
+requests==2.22.0

@@ -4,4 +4,4 @@ koakuma.jpg
 __pycache__/
 *.py[cod]
 *$py.class
-
+.env
