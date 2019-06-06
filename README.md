@@ -5,6 +5,7 @@ Discord bot for a Danbooru tag-guessing game. [**Play it here!**](https://discor
 
 ## Usage
 Store a bot client token in the environment variable `KOAKUMA_TOKEN`, then `python3 koakuma.py` to run the bot.
+Specify this token in a `.env` file and use `docker-compose up` to run in Docker.
 
 ## Gameplay
 * Type `!start` to begin the game.
