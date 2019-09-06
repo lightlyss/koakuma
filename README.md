@@ -1,3 +1,4 @@
+[![Build Status](https://github.com/lightlyss/koakuma/workflows/docker/badge.svg)](https://github.com/lightlyss/koakuma)
 # Koakuma!
 Discord bot for a Danbooru tag-guessing game. [**Play it here!**](https://discord.gg/ZyrkTTS)
 
